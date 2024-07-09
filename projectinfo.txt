@@ -1,0 +1,1 @@
+https://antonputra.com/google/create-gke-cluster-using-terraform/#deploy-nginx-ingress-controller-on-gke-example-3
